@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-03T19:33:12 IST" name="Suite" finished-at="2023-10-03T19:34:05 IST" duration-ms="52646">
+    <groups>
+    </groups>
+    <test started-at="2023-10-03T19:33:12 IST" name="Test" finished-at="2023-10-03T19:34:05 IST" duration-ms="52646">
+      <class name="testRun.VegetableKart">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:12 IST" name="initializeDriver" finished-at="2023-10-03T19:33:20 IST" duration-ms="7283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[local]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="vegitableSearch()[pri:1, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:20 IST" name="vegitableSearch" finished-at="2023-10-03T19:33:31 IST" duration-ms="11471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vegitableSearch -->
+        <test-method signature="incrementBtnCheck()[pri:2, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:31 IST" name="incrementBtnCheck" finished-at="2023-10-03T19:33:32 IST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incrementBtnCheck -->
+        <test-method signature="addToKart()[pri:3, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:32 IST" name="addToKart" finished-at="2023-10-03T19:33:35 IST" duration-ms="3341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToKart -->
+        <test-method signature="GoToCartCheck()[pri:4, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:35 IST" name="GoToCartCheck" finished-at="2023-10-03T19:33:38 IST" duration-ms="3234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToCartCheck -->
+        <test-method signature="CheckOutCheck()[pri:5, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:38 IST" name="CheckOutCheck" finished-at="2023-10-03T19:33:42 IST" duration-ms="3222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOutCheck -->
+        <test-method signature="PromoFieldCheck()[pri:6, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:42 IST" name="PromoFieldCheck" finished-at="2023-10-03T19:33:45 IST" duration-ms="3038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PromoFieldCheck -->
+        <test-method signature="promocodeCheck()[pri:7, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:45 IST" name="promocodeCheck" finished-at="2023-10-03T19:33:48 IST" duration-ms="3241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- promocodeCheck -->
+        <test-method signature="PlaceorderCheck()[pri:8, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:48 IST" name="PlaceorderCheck" finished-at="2023-10-03T19:33:51 IST" duration-ms="3039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaceorderCheck -->
+        <test-method signature="SelectCountryDropDown()[pri:9, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:51 IST" name="SelectCountryDropDown" finished-at="2023-10-03T19:33:54 IST" duration-ms="3274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectCountryDropDown -->
+        <test-method signature="ClickCheckBtn()[pri:10, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:54 IST" name="ClickCheckBtn" finished-at="2023-10-03T19:33:57 IST" duration-ms="3229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickCheckBtn -->
+        <test-method signature="FinalProceedBtn()[pri:11, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:33:57 IST" name="FinalProceedBtn" finished-at="2023-10-03T19:34:03 IST" duration-ms="5252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinalProceedBtn -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:testRun.VegetableKart@2cb3d0f7]" started-at="2023-10-03T19:34:03 IST" name="closeDriver" finished-at="2023-10-03T19:34:05 IST" duration-ms="2287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- testRun.VegetableKart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
